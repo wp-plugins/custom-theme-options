@@ -1,5 +1,5 @@
 === Custom Theme Options ===
-Contributors: pv.jinesh.
+Contributors: pv.jinesh
 Donate link: http://weblumia.com/donate/
 Tags: lumia-slider, sliders, image slider,responsive, responsive slider, content slider, video slider
 Requires at least: 3.3
