@@ -3,7 +3,7 @@
 Plugin Name: Custom Theme Options
 Plugin URI: http://wordpress.org/plugins/custom-theme-options/
 Description: Custom Theme Options plugin easy to manage your custom theme options like copyright text,youtube, facebook, twitter links etc.
-Version: 1.0
+Version: 1.1
 Author: Jinesh.P.V, Web Designer and Developer.
 Author URI: http://weblumia.com/
 */
